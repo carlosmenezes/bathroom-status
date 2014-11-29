@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bathroom_status_primary">#99cc00</color>
+    <color name="bathroom_status_primary_dark">#669900</color>
+    <color name="bathroom_status_text_primary">#FFF</color>
+
+</resources>

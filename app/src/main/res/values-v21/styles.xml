@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/bathroom_status_primary</item>
+        <item name="android:colorPrimaryDark">@color/bathroom_status_primary_dark</item>
+        <item name="android:textColorPrimary">@color/bathroom_status_text_primary</item>
+    </style>
+
+</resources>

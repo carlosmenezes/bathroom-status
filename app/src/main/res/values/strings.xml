@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Banheiros</string>
+    <string name="action_settings">Settings</string>
+    <string name="status_button_text">Consultar</string>
+    <string name="check_in_button_text">Check In</string>
+    <string name="action_refresh">Atualizar</string>
+    <string name="bathroom_occupied">Ocupado</string>
+    <string name="bathroom_free">Livre</string>
+    <string name="bathroom_destroyed">Destruído</string>
+
+</resources>
